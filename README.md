@@ -11,13 +11,13 @@
      - 3주: 뉴스
 
 <a name="top"></a>
-*[code1](#code1)
-*[code2](#code2)
-*[code3](#code3)
-*[code4](#code4)
-*[code5](#code5)
-*[code6](#code6)
-*[code7](#code7)
+[code1](#code1)<br>
+[code2](#code2)
+[code3](#code3)
+[code4](#code4)
+[code5](#code5)
+[code6](#code6)
+[code7](#code7)
 
   ## 아래의 코드를 참고하세요
 ```jsp
