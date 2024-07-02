@@ -24,4 +24,4 @@
 </jsp:useBean>
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
-```jsp
+```
