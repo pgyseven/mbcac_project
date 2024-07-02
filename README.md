@@ -25,4 +25,5 @@
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
-<h3 style="background-color:red;">구현</h3>
+[github마크다운으로 색상 설정하기](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db)
+$\color{#ff0000}{\textsf{색상 설정}}$
